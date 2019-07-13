@@ -1,1 +1,2 @@
-# hogan-system
+# Kings-Shop-System
+Kings Shop System
